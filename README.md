@@ -15,6 +15,9 @@ The project can be installed by downloading the repository into a zip file, open
 The project can be viewed by opening the `index.html` file in your browser. Furthermore, you can inspect the code using **Google Chrome Dev Tools**.
 The deployed page can be viewed here: https://jairatagle.github.io/css-demo-site/
 
+![Uploading CleanShot 2024-05-30 at 21.39.48.gif…]()
+
+
 ## Credits
 The original repository and code (prior to my refactoring) was provided by GitHub contributors **Georgeyoo** and **Xandromus**.
 
